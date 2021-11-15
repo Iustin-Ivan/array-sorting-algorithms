@@ -1,4 +1,5 @@
+#include<stdio.h>
 int main(){
-	//todo
-	//return 0;
-	//}
+	printf("program.c");
+	return 0;
+	}
